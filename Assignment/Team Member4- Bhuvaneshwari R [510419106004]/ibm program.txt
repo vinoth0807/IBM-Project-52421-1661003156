@@ -1,0 +1,16 @@
+<!DOCTYPEhtml!>
+<html>
+<head>user registration form </head>
+<body>
+<form>
+<table> type="text" id="name"
+<tr><td><lable for="name">Name:</lable></td> <td><input type="text" id="name" name="name"></td></td></tr>
+tr><td><lable for="email">Email:</lable></td> <td><input type="text" id="email" email="email"></td></td></tr>
+tr><td><lable for="mobile">Mobile</lable></td> <td><input type="text" id="mobile" mobile="mobile"></td></td></tr>
+tr><td><lable for="city">City</lable></td> <td><input type="test" id="city" city="city"></td></td></tr>
+tr><td><lable for="state">State</lable></td> <td><input type="type" id="state" state="state"></td></td></tr>
+tr><td>lable for="country">Country</lable></td> <td><input type='type" id="country" country="country"></td></td></tr>
+</table>
+</form>
+</body>
+</html>
